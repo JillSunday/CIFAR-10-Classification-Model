@@ -25,8 +25,7 @@ The model includes:
 - Dropout for regularization
 
 Here is a visualization of the model architecture:
-![Model Architecture](https://github.com/JillSunday/CIFAR-10-Classification-Model/blob/main/results/Model_Architecture.jpeg?raw=true)
-
+![Model Architecture](https://github.com/JillSunday/CIFAR-10-Classification-Model/blob/main/results/Model%20Architecture.jpeg?raw=true)
 ## Results
 - **Training Accuracy**: 95.05% (at 69 epochs)
 - **Validation Accuracy**: 71.43%
