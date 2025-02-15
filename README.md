@@ -37,7 +37,7 @@ The data was successfully loaded and preprocessed for training:
 
 ### Training Progress
 The training and validation accuracy over epochs:
-![Training Graph](results/Train_Graph.png)
+![Training Graph](https://github.com/JillSunday/CIFAR-10-Classification-Model/blob/main/results/Train%20Graph.png?raw=true)
 
 ## Usage
 You can run this project either in **Google Colab** or on your **local machine**.
